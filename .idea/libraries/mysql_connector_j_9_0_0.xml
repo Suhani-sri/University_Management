@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rsc/lib/mysql-connector-j-9.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jcalendar-1.4/lib/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

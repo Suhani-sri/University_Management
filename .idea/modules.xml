@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/University/University.iml" filepath="$PROJECT_DIR$/University/University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/University Management System.iml" filepath="$PROJECT_DIR$/.idea/University Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsc/rsc.iml" filepath="$PROJECT_DIR$/rsc/rsc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+    </modules>
+  </component>
+</project>
